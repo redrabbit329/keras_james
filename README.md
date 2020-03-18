@@ -46,6 +46,10 @@ https://followers.tistory.com/15
 http://jonghoonp.blogspot.com/2019/08/cuda-cudnn.html
 
 
+CUDA, cuDNN 설치 버전 확인하기
+
+https://crmn.tistory.com/31
+
 
 
 
