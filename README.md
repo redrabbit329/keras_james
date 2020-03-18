@@ -57,3 +57,10 @@ https://jaeyung1001.tistory.com/19?category=727294
 나중에 
 https://followers.tistory.com/15
 
+
+## 현재 작업횐경 노트 : rr계정 
+
+Python 2.7.17
+
+참고웹페이지 : github.com/Hahnnz/Caffe_Tutorial/wiki/0.-Caffe-설치-방법
+
