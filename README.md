@@ -50,6 +50,9 @@ CUDA, cuDNN 설치 버전 확인하기
 
 https://crmn.tistory.com/31
 
+설치기
+
+https://jaeyung1001.tistory.com/19?category=727294
 
 
 
